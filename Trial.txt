@@ -1,1 +1,3 @@
-Hello
+git add .
+git commit -m "add message"
+git push origin master
