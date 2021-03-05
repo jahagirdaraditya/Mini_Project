@@ -1,3 +1,8 @@
-git add .
-git commit -m "add message"
-git push origin master
+To Add :-
+1. git add .
+2. git commit -m "add message"
+3. git push origin master
+
+
+To set Globally :
+git config --global credential.https://github.com.username <your_username>
