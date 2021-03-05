@@ -5,4 +5,4 @@ To Add :-
 
 
 To set Globally :
-git config --global credential.https://github.com.username <your_username>
+1. git config --global credential.https://github.com.username <your_username>
